@@ -61,10 +61,9 @@ Samuel Kalu
 
 
 ## Acknowledgments
-### This project would not have been possible without the resources provided by:
+### This project would not have been possible without the resources, docs and demos provided by:
 *  [Agents-MCP-Hackathon](https://huggingface.co/Agents-MCP-Hackathon)
 *  [Nebius Ai Studio](https://studio.nebius.com/)
-### Inspiration, code snippets, etc.
 #### Huggingface:
 * [Text-to-SQL example](https://huggingface.co/docs/smolagents/en/examples/text_to_sql)
 * [Building Good Smolagents Tutorial](https://smolagents.org/docs/building-good-smolagents/)
