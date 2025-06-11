@@ -9,17 +9,16 @@ A gradio app that allows you to take any excel spreadsheet exported in .csv form
 * gradio
 * SQLAlchemy
 * smolagents
-  
-#### Installing Dependencies
-*  Open cmd line in your intended project directory and clone the repo
+
+### Executing Program Locally
+*  Open cmd line in your intended project directory and clone the repo:
 ```
 git clone https://github.com/SamKa1u/Gradio-Agents-Hackathon.git
 ```
-*  In the same directory run this cmd
+*  With cmd line in the same directory run:
 ```
 pip install -r requirements.txt
 ```
-### Executing Program Locally
 
 *  Run the file then navigate to the local URL for the demo
   <img src="images/URL.PNG"/>
