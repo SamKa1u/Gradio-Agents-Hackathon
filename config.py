@@ -1,9 +1,4 @@
 import os
-from sqlalchemy import (
-    String,
-    Integer,
-    Float,
-)
 
 class PATHS:
     # get temp path from env
